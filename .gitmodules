@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository"]
+	path = SubmoduleRepository
+	url = git@github.com:pavel-pontaplev/SubmoduleRepository.git
